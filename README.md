@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rohde0the0Resolute
+- 👀 I’m interested in solve problems and learn new things
+- 🌱 I’m currently learning C with CS50
+- 💞️ I’m looking to collaborate on idk, something fun
+- 📫 How to reach me thom.rtresolute@gmail.com
